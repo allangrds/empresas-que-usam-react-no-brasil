@@ -23,6 +23,7 @@ MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
 NG Informática | http://ngi.com.br |
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
+Pagar.me | https://pagar.me | Redux, Jest, Enzyme, CSS Modules
 Pipefy | https://pipefy.com |
 Quanto | https://www.contaquanto.com.br/ |
 Segware | http://www.segware.com.br |
